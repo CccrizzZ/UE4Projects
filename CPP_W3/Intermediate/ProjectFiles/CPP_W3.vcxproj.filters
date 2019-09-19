@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CPP_W3.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{442703C2-1E23-4570-9085-4C151840B468}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CPP_W3.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CPP_W3Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FEDF9A9B-AF34-4799-94C7-69DAB469F65F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CPP_W3">
+      <UniqueIdentifier>{CB997AD7-F413-4BBC-A7A4-79307566DAF3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CPP_W3\CPP_W3.Build.cs">
+      <Filter>Source\CPP_W3</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CPP_W3\CPP_W3.cpp">
+      <Filter>Source\CPP_W3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPP_W3\CPP_W3.h">
+      <Filter>Source\CPP_W3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPP_W3\CPP_W3Character.cpp">
+      <Filter>Source\CPP_W3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPP_W3\CPP_W3Character.h">
+      <Filter>Source\CPP_W3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPP_W3\CPP_W3GameMode.cpp">
+      <Filter>Source\CPP_W3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPP_W3\CPP_W3GameMode.h">
+      <Filter>Source\CPP_W3</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\CPP_W3\Pickup.h">
+      <Filter>Source\CPP_W3</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\CPP_W3\Pickup.cpp">
+      <Filter>Source\CPP_W3</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
