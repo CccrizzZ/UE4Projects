@@ -1,3 +1,0 @@
-C:\Users\101193350\Documents\Unreal Projects\CPP_W3\Intermediate\Build\Win64\UE4Editor\Development\CPP_W3\Definitions.CPP_W3.h
-c:\users\101193350\documents\unreal projects\cpp_w3\source\cpp_w3\Pickup.h
-C:\Users\101193350\Documents\Unreal Projects\CPP_W3\Intermediate\Build\Win64\UE4Editor\Inc\CPP_W3\Pickup.generated.h

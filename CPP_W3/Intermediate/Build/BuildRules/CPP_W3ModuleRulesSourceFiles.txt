@@ -1,3 +1,0 @@
-C:\Users\101193350\Documents\Unreal Projects\CPP_W3\Source\CPP_W3\CPP_W3.Build.cs
-C:\Users\101193350\Documents\Unreal Projects\CPP_W3\Source\CPP_W3.Target.cs
-C:\Users\101193350\Documents\Unreal Projects\CPP_W3\Source\CPP_W3Editor.Target.cs
